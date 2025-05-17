@@ -22,7 +22,7 @@ Hi, I'm Arvind Kumar, a passionate Frontend Developer from India. Specialize in 
 [![](https://visitcount.itsvg.in/api?id=CodeWithAviii&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/yoursdeveloper) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yoursdeveloper) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
